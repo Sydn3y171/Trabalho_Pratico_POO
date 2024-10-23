@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|c:\\users\\mafalda\\desktop\\uni\\poo\\tp1\\trabalho_pratico_poo\\gestaoobras\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D335ADA-90E8-4F26-A709-AF924B243286}|GestaoObras.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +34,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Login.Designer.cs",
-              "RelativeDocumentMoniker": "Login.Designer.cs",
-              "ToolTip": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Login.Designer.cs",
-              "RelativeToolTip": "Login.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T10:07:03.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T10:13:17.254Z",
+              "WhenOpened": "2024-10-23T19:24:34.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Register.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Register.cs [Projeto]",
+              "RelativeToolTip": "Register.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:14:46.455Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Login.cs",
               "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAEwDgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T09:36:58.759Z",
               "EditorCaption": ""
@@ -80,7 +79,8 @@
               "ToolTip": "C:\\Users\\Mafalda\\Desktop\\Uni\\POO\\TP1\\Trabalho_Pratico_POO\\GestaoObras\\Login.cs [Projeto]",
               "RelativeToolTip": "Login.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T08:48:40.661Z"
+              "WhenOpened": "2024-10-20T08:48:40.661Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }

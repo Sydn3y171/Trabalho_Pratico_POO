@@ -35,6 +35,7 @@
             textBox_Password = new TextBox();
             button_Login = new Button();
             button_Clear = new Button();
+            button_Register = new Button();
             SuspendLayout();
             // 
             // label1
@@ -103,11 +104,22 @@
             button_Clear.UseVisualStyleBackColor = true;
             button_Clear.Click += button_Clear_Click;
             // 
+            // button_Register
+            // 
+            button_Register.Location = new Point(210, 408);
+            button_Register.Name = "button_Register";
+            button_Register.Size = new Size(232, 29);
+            button_Register.TabIndex = 7;
+            button_Register.Text = "Register";
+            button_Register.UseVisualStyleBackColor = true;
+            button_Register.Click += button_Register_Click;
+            // 
             // Login
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(597, 461);
+            Controls.Add(button_Register);
             Controls.Add(button_Clear);
             Controls.Add(button_Login);
             Controls.Add(textBox_Password);
@@ -131,5 +143,6 @@
         private TextBox textBox_Password;
         private Button button_Login;
         private Button button_Clear;
+        private Button button_Register;
     }
 }

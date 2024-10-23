@@ -24,3 +24,4 @@ C:\Users\Mafalda\Desktop\Uni\POO\TP1\Trabalho_Pratico_POO\GestaoObras\obj\Debug\
 C:\Users\Mafalda\Desktop\Uni\POO\TP1\Trabalho_Pratico_POO\GestaoObras\obj\Debug\net8.0-windows\GestaoObras.pdb
 C:\Users\Mafalda\Desktop\Uni\POO\TP1\Trabalho_Pratico_POO\GestaoObras\obj\Debug\net8.0-windows\GestaoObras.genruntimeconfig.cache
 C:\Users\Mafalda\Desktop\Uni\POO\TP1\Trabalho_Pratico_POO\GestaoObras\obj\Debug\net8.0-windows\ref\GestaoObras.dll
+C:\Users\Mafalda\Desktop\Uni\POO\TP1\Trabalho_Pratico_POO\GestaoObras\obj\Debug\net8.0-windows\GestaoObras.Register.resources

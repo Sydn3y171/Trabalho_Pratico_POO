@@ -89,5 +89,14 @@ namespace GestaoObras
         {
             textBox_Password.PasswordChar = '*';
         }
+
+
+        //Register Button
+        private void button_Register_Click(object sender, EventArgs e)
+        {
+            Register registerForm = new Register();
+
+            registerForm.ShowDialog();
+        }
     }
 }
