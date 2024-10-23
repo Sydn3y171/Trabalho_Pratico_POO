@@ -19,8 +19,6 @@ namespace GestaoObras
             InitializeComponent();
         }
 
-        SqlConnection conn = new SqlConnection(@"Data Source=LAPTOP-ENCAPB3M\SQLEXPRESS;Initial Catalog=GestaoObrasConstrucaoCivil;Integrated Security=True;TrustServerCertificate=True;");
-
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -32,6 +30,8 @@ namespace GestaoObras
 
 
         }
+
+        SqlConnection conn = new SqlConnection(@"Data Source=LAPTOP-ENCAPB3M\SQLEXPRESS;Initial Catalog=GestaoObrasConstrucaoCivil;Integrated Security=True;TrustServerCertificate=True;");
 
         private void button_Login_Click(object sender, EventArgs e)
         {

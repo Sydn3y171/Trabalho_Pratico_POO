@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             label1 = new Label();
             label_Username = new Label();
             label_Password = new Label();
@@ -127,6 +128,7 @@
             Controls.Add(label_Password);
             Controls.Add(label_Username);
             Controls.Add(label1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Login";
             Text = "Login";
             Load += Login_Load;
